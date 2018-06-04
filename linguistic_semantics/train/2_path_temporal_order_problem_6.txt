@@ -1,0 +1,3 @@
+Start story titled "Temporal Order Problem".
+The seagull flew after the fish jumped. The fish swam fast. Did "fish jumped" belong before "the seagull flew"?
+The end.

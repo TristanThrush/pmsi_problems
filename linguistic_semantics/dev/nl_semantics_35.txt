@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The river is in front of the golf course. The river is in back of the hotel. Did the hotel belong before the golf course?
+The end.

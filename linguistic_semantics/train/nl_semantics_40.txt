@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+John was smart because John attended college. Did "John attended college" belong before "John was smart"?
+The end.

@@ -1,0 +1,3 @@
+Start story titled "Temporal Order Problem".
+They sailed after they had dinner. They had dinner after they had breakfast. Did "they had breakfast" belong before "they sailed"?
+The end.

@@ -1,0 +1,3 @@
+Start story called "Temporal Year Problem".
+James died in 2007. Adam kills Paul in 2008. Adam kills Jose after Adam kills Paul. Did "James died" belong before "Adam kills Jose"?
+The end.

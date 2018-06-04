@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The ball is in front of the pyramid. Did the ball belong before the pyramid?
+The end.

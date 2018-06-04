@@ -1,0 +1,3 @@
+Start story titled "Temporal Causation Problem".
+Peter wanted to get pizza because Peter was hungry. Peter got pizza after driving to a restaurant. Did "Peter was hungry" belong before "Peter wanted to get pizza"?
+The end.

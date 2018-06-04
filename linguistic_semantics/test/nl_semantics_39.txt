@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The spy died in 1246. The tragedy created riots in 1245. The tragedy created riots because the war was bad. Did "the war was bad" belong before "the spy died"?
+The end.

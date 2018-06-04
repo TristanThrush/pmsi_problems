@@ -1,0 +1,5 @@
+Start story called "Temporal Year Problem".
+Einstein discovered relativity before 1906. Einstein discovered relativity because Newton invented calculus. Did "Newton invented calculus" belong before 1906?
+The end.
+
+//Potential path: turn all because into before. chain before.

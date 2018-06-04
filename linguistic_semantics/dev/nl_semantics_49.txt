@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Trump is in back of the white house. Trump is in front of the desk. Did Trump belong before the desk?
+The end.

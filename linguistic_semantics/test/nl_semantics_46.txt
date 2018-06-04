@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Movie_2 was made because the Movie_1 was successful. Movie_1 was successful because Movie_1 had a good script. Movie_2 was made in 2012. The actor lost his contract in 2015. The actor moved to England after the actor lost his contract. Did "Movie_1 had a good script" belong before "The actor moved to England"?
+The end.

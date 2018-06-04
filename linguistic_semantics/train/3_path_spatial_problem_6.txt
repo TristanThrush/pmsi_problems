@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The fish is in back of the seagull. Did the seagull belong before the fish?
+The end.

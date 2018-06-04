@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The dog is in front of the cat. The dog growled at the cat. Did the dog belong before the cat?
+The end.

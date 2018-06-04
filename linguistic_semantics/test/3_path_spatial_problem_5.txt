@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+Tom is in back of the lamp. Did the lamp belong before Tom?
+The end.

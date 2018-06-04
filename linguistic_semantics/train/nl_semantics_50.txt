@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The pilot died after the plane crashed. The plane crashed because the wind was too strong. Did "the wind was too strong" belong before "The pilot died"?
+The end.

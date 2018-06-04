@@ -1,0 +1,3 @@
+Start story called "Temporal Year Problem".
+Ryan stole a car in 1997. Beth bought a car in 2008. Beth's car was stolen after Beth bought a car. Beth bought a bike because Beth's car was stolen. Did "Ryan stole a car" belong before "Beth bought a bike"?
+The end.

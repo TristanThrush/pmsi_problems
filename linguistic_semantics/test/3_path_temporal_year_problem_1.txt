@@ -1,0 +1,3 @@
+Start story called "Temporal Year Problem".
+James died in 2007. Adam kills paul in 2006. Adam kills himself in 2008. Did "James died" belong before "Adam kills himself"?
+The end.

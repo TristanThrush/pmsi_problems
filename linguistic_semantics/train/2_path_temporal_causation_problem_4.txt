@@ -1,0 +1,3 @@
+Start story titled "Temporal Causation Problem".
+Adam was angry with himself because he killed James. Adam killed himself because Adam killed James. Did "Adam killed James" belong before "Adam killed himself"?
+The end.

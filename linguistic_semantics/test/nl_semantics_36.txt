@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The pond is in front of the tree. The frog jumped before the pond. Did "the frog jumped" belong before the tree?
+The end.

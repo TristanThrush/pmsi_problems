@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Beth went to England after Beth paid for the flight. Did "Beth paid for the flight" belong before "Beth went to England"?
+The end.

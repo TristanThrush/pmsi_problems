@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The pyramid is in back of the block. Did the block belong before the pyramid?
+The end.

@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The cylinder is a toy. The cone is a toy. The cylinder and the cone fell to the floor. The cylinder is in front of the cone. Did the cylinder belong before the cone?
+The end.

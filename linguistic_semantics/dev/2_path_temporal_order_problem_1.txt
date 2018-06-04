@@ -1,0 +1,3 @@
+Start story titled "Temporal Order Problem".
+Adam went to college after Adam received the scholarship. Did "Adam received the scholarship" belong before "Adam went to college"?
+The end.

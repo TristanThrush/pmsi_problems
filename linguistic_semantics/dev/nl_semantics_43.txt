@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Beth went to England after Beth paid for the flight. Beth found a cat after Beth went to England. Beth was late for the tour because Beth found a cat. Did "Beth paid for the flight" belong before "Beth was late for the tour"?
+The end.

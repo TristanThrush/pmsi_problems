@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The pie is before the oven. The oven is in front of the sink. Did the oven belong before the sink?
+The end.

@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The bee is in front of the wasp. The bee stung the wasp. Did the bee belong before the wasp?
+The end.

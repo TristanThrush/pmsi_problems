@@ -1,0 +1,3 @@
+Start story titled "Temporal Order Problem".
+The block cracked after the pyramid was dropped. Did "the pyramid was dropped" belong before "the block cracked"?
+The end.

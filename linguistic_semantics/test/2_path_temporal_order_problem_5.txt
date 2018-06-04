@@ -1,0 +1,3 @@
+Start story titled "Temporal Order Problem".
+John died after John ate poison. Did "John ate poison" belong before "John died"?
+The end.

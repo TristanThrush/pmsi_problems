@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The dog is in front of the house. The dog is in back of the lawn. Did the lawn belong before the house?
+The end.

@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The car is in front of the cliffs. The water is in front of the car. The sun is in front of the water. Did the sun belong before the cliffs?
+The end.

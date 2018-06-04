@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The truck is in front of the lawn. The car is parked next to the truck. Did the truck belong before the lawn?
+The end.

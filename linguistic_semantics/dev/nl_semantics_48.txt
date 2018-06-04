@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+The fish is in front of the seagull. Did the fish belong before the seagull?
+The end.

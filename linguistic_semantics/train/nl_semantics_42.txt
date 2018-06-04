@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Astronauts went to the moon in 1969. Rovers went to Mars after Astronauts went to the moon. People saw pictures from Mars because Rovers went to Mars. David was born in 1967. Did "David was born" belong before "People saw pictures from Mars"?
+The end.

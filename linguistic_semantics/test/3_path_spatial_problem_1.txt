@@ -1,0 +1,3 @@
+Start story titled "Spatial Problem".
+The car is in back of the house. The car is in front of the tree. Did the house belong before the tree?
+The end.

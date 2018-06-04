@@ -1,0 +1,3 @@
+Start story called "Natural Language Problem".
+Obama is in back of the white house. Obama is in front of Trump. Did the white house belong before Trump?
+The end.
