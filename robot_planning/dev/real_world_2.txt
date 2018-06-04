@@ -1,0 +1,3 @@
+Start story titled "Real World Problem".
+Satisfy movables_yellow_box on small_tables_orange_table in first_world.
+The end.

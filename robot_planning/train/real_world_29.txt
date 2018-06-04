@@ -1,0 +1,3 @@
+Start story titled "Real World Problem".
+Satisfy movables_box on small_tables_low_shelf in fifth_world.
+The end.

@@ -1,0 +1,3 @@
+Start story titled "Real World Problem".
+Satisfy movables_spoon on small_tables_desk in eigth_world.
+The end.
