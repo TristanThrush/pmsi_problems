@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"t" is a variable. "+t*t-t=-t" is an equation. Solve the equations.
+The end.

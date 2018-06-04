@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"b" is a variable. "+4.0*b^2+9*b=+5.0" is an equation. Solve the equations.
+The end.

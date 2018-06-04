@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"y" is a variable. "+1.0*y=+0.46" is an equation. Solve the equations.
+The end.

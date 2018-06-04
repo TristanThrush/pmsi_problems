@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"q" is a variable. "+q-q^2=+0.7*q" is an equation. Solve the equations.
+The end.

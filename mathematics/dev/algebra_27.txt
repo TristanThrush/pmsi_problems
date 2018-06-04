@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"s" is a variable. "-2*s=-s" is an equation. Solve the equations.
+The end.

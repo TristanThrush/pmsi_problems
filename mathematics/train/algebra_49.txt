@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"n" is a variable. "+1.0*n*n*7.0*8/9-1.0*n=+1.0*n+3.0*n+7.0" is an equation. Solve the equations.
+The end.

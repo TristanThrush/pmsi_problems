@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"p" is a variable. "-5*p*7*4-2/5-7+6*p^0=-35/2*5.2*p^1" is an equation. Solve the equations.
+The end.

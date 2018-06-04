@@ -1,0 +1,3 @@
+Start story titled "Math Problem".
+"c" is a variable. "-7+c=+8*c" is an equation. Solve the equations.
+The end.
