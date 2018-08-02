@@ -1,2 +1,2 @@
-- Look in the directories for the problems and goals from our paper.
-- Look at the pdf file for all of the hypothesis spaces that our test PMSIs learn.
+- Look in the directories for the problems and goals used to train PMSI.
+- Look at the pdf file for all of the hypothesis spaces that our test PMSIs in our paper learn.
